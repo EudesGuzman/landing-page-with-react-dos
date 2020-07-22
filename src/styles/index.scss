@@ -11,3 +11,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.m-2 {
+    margin: 0.5rem !important;
+    width: 30%;
+    float: left;
+}
+
+.mt-5, .my-5 {
+    margin-top: 0rem !important;
+}
